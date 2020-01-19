@@ -1,0 +1,14 @@
+{
+  "common":{
+    "sLang":"chinese",
+    "headerTitle":"EX33 League Chain",
+    "headerDown":"Print order",
+    "exit":"exit",
+
+    "title1":"Budget control overview",
+    "title2":"Order statistics",
+    "title3":"money",
+    "title4":"Recent statistics",
+    "title5":"Book purchase list"
+  }
+}

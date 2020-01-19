@@ -1,0 +1,15 @@
+{
+  "common":{
+    "sLang":"english",
+    "headerTitle":"EX33联盟链",
+    "headerDown":"打印下单",
+    "exit":"退出",
+
+    "title1":"预算控制总况",
+    "title2":"订单统计",
+    "title3":"资金",
+    "title4":"最近统计",
+    "title5":"图书购买清单"
+  }
+
+}

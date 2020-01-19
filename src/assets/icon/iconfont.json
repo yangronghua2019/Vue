@@ -1,0 +1,16 @@
+{
+  "id": "1599340",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "使用尺量图",
+  "glyphs": [
+    {
+      "icon_id": "12659767",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
